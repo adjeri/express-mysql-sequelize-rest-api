@@ -20,4 +20,4 @@ npm install
 ```
 nodemon
 ```
-- All endpoints are in `src/routes/user.route.js` file
+- All endpoints are in `src/routes/brand.route.js` file
